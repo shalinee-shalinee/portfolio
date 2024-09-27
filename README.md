@@ -18,10 +18,11 @@ Projects: A showcase of your web development projects with live demos and GitHub
 Skills: Lists technologies and tools you are proficient with.
 Contact: A form for visitors to reach out, along with social media links.
 Setup Instructions
-To view the project on your local machine
+To view the project on your local machine:
+
 bash
 Copy code
-cd my-portfolio
+cd your-portfolio
 Open the index.html file in your browser:
 
 bash
@@ -34,6 +35,9 @@ Future Improvements
 Add a dark mode toggle feature.
 Integrate a CMS for easy project updates.
 Improve accessibility for screen readers.
+
+
+
 
 
 
